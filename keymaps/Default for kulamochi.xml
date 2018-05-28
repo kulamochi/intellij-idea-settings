@@ -15,4 +15,7 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift ctrl meta up" />
   </action>
+  <action id="PublishGroup.SyncLocalVsRemoteWith">
+    <keyboard-shortcut first-keystroke="shift meta alt s" />
+  </action>
 </keymap>
