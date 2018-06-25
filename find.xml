@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="現在のファイル" />
-    <option name="defaultScopeName" value="現在のファイル" />
+    <option name="customScope" value="Scratches and Consoles" />
+    <option name="defaultScopeName" value="Scratches and Consoles" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="現在のファイル" />
+    <option name="SEARCH_SCOPE" value="Scratches and Consoles" />
   </component>
 </application>
