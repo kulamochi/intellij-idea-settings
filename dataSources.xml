@@ -15,5 +15,12 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="postgres@okla.co.jp (development)" uuid="eb159c63-d3fb-4c7e-9c78-75105c087702">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>開発環境</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/</jdbc-url>
+    </data-source>
   </component>
 </application>
