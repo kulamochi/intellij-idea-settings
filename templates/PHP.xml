@@ -4,7 +4,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="zd" value="Zend_Debug::dump();" description="for debug Zend Framework" toReformat="true" toShortenFQNames="true">
+  <template name="zd" value="\Zend_Debug::dump($END$);" description="for debug Zend Framework" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fd" value="\Debug::dump($END$);" description="for debug FuelPHP" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
