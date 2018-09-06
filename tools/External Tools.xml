@@ -6,7 +6,7 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$" />
     </exec>
   </tool>
-  <tool name="remote forward" description="PHP デバッグ用リモートフォーワード" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="remote forward" description="PHP デバッグ用リモートフォーワード" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.ssh/ssh_intellij_php_remote_debug.okla.sh" />
       <option name="PARAMETERS" />
