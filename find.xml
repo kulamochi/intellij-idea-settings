@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="現在のファイル" />
+    <option name="defaultScopeName" value="現在のファイル" />
+    <option name="SEARCH_SCOPE" value="現在のファイル" />
   </component>
 </application>
