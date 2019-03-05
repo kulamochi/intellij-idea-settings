@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="head" value="header('Content-Type:text/html; charset=$END$');" description="charset 'header' statment" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
