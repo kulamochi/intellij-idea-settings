@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="プロジェクト 'sanwa-ss.co.jp'" />
-    <option name="defaultScopeName" value="プロジェクト 'sanwa-ss.co.jp'" />
-    <option name="SEARCH_SCOPE" value="プロジェクト 'sanwa-ss.co.jp'" />
+    <option name="customScope" value="プロジェクト 'csljp.com'" />
+    <option name="defaultScopeName" value="プロジェクト 'csljp.com'" />
+    <option name="SEARCH_SCOPE" value="プロジェクト 'csljp.com'" />
   </component>
 </application>
