@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".corntab_producttion_www" type="PLAIN_TEXT" />
       <mapping pattern=".corntab_development" type="PLAIN_TEXT" />
       <mapping pattern=".corntab" type="PLAIN_TEXT" />
     </extensionMap>
