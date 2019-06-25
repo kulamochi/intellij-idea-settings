@@ -13,8 +13,8 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*.php</mask>
     <mask>*.*</mask>
   </component>
 </application>
