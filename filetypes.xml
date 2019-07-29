@@ -5,6 +5,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".corntab_producttion_www" type="PLAIN_TEXT" />
       <mapping pattern=".corntab_development" type="PLAIN_TEXT" />
+      <mapping pattern=".corntab_production_mail_by_google_account_user" type="PLAIN_TEXT" />
       <mapping pattern=".corntab" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
