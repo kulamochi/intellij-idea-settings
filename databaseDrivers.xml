@@ -124,7 +124,6 @@
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="com.simba.googlebigquery.jdbc42.Driver" name="com.simba.googlebigquery.jdbc42.Driver" driver-class="com.simba.googlebigquery.jdbc42.Driver" />
     <driver id="java.sql.Driver" name="BigQuery" dialect="GenericSQL" driver-class="com.simba.googlebigquery.jdbc42.Driver">
       <url-template name="defualt" template="jdbc:bigquery://[{host::https\://www.googleapis.com/bigquery/v2}[:{port::443}]][&lt;;,{:identifier}={:param}&gt;]" />
       <option name="auto-commit" value="true" />
