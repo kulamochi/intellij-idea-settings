@@ -6,6 +6,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".corntab_producttion_www" type="PLAIN_TEXT" />
+      <mapping pattern="dev_server" type="PLAIN_TEXT" />
+      <mapping pattern="test_server" type="PLAIN_TEXT" />
       <mapping pattern=".corntab_development" type="PLAIN_TEXT" />
       <mapping pattern=".corntab_development_www_by_google_account_user" type="PLAIN_TEXT" />
       <mapping pattern=".corntab" type="PLAIN_TEXT" />
