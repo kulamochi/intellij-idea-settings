@@ -16,7 +16,7 @@
   <tool name="remote forward::GCP(dev)" description="PHP デバッグ用リモートフォーワード" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.ssh/ssh_intellij_php_remote_debug.sh" />
-      <option name="PARAMETERS" value="35.243.177.90" />
+      <option name="PARAMETERS" value="35.237.143.53" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/.ssh" />
     </exec>
   </tool>
