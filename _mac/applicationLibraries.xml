@@ -1,11 +1,14 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/jquery" type="javaScript">
+    <library name="BigNumber" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="bignumber" type="javaScript">
+    <library name="jQuery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
       <CLASSES />
       <JAVADOC />
       <SOURCES />
