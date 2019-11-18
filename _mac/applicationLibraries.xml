@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="BigNumber" type="javaScript">
+    <library name="@types/jquery" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
@@ -14,14 +14,6 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bignumber.js_8.1.1_bignumber.js" />
       </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="jQuery" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-      </properties>
-      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
