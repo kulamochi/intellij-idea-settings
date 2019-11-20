@@ -1,21 +1,13 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="MySQL@okla.co.jp (development)" uuid="532f4d5e-24f1-4560-a86c-1e57964e30b6">
+    <data-source source="LOCAL" name="MySQL@okla.co.jp" uuid="532f4d5e-24f1-4560-a86c-1e57964e30b6">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <remarks>開発環境</remarks>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="PostgreSQL@okla.co.jp (development)" uuid="d6f1e7d3-2a89-4646-bf5c-6f671d0c40a1">
+    <data-source source="LOCAL" name="PostgreSQL@okla.co.jp" uuid="d6f1e7d3-2a89-4646-bf5c-6f671d0c40a1">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
