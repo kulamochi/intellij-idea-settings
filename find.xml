@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="プロジェクト・ファイル" />
-    <option name="defaultScopeName" value="プロジェクト・ファイル" />
+    <option name="customScope" value="最近変更したファイル" />
+    <option name="defaultScopeName" value="最近変更したファイル" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="プロジェクト・ファイル" />
+    <option name="SEARCH_SCOPE" value="最近変更したファイル" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
