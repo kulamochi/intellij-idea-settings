@@ -1,10 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/jquery" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="bignumber" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -14,6 +9,22 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bignumber.js_8.1.1_bignumber.js" />
       </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.11.1_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.11.1_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
       <JAVADOC />
       <SOURCES />
     </library>
