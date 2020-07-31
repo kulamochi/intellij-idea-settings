@@ -1,15 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="myapp_cake_model_default_attendance_plan_details" type="PLAIN_TEXT" />
       <mapping pattern="myapp_cake_core_translations_default_en__u_s" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="cgi" type="Perl5 script" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
