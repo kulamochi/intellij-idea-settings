@@ -10,8 +10,6 @@
       <mapping ext="jp" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="pm" type="Perl5 Package" />
-      <mapping ext="pl" type="Perl5 Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
