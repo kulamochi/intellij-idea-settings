@@ -2847,7 +2847,7 @@
                   </entry>
                   <entry key="webservices">
                     <value>
-                      <FeaturePluginData displayName="Web サービス" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" />
+                      <FeaturePluginData displayName="WebServices" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" />
                     </value>
                   </entry>
                 </map>
