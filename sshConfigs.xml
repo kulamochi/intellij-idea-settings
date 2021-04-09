@@ -3,6 +3,7 @@
     <configs>
       <sshConfig host="okla.co.jp" id="16985bf9-7ddb-47c3-9959-e5b65f39f7fb" keyPath="$USER_HOME$/.ssh/id_rsa.okla.co.jp" port="22" nameFormat="DESCRIPTIVE" username="admin" />
       <sshConfig host="okla.co.jp" id="f9bcbd43-cbd0-4340-9f2f-a78b2c893939" keyPath="$USER_HOME$/.ssh/id_rsa.okla.co.jp" port="22" nameFormat="DESCRIPTIVE" username="admin" />
+      <sshConfig host="eccj.xsrv.jp" id="357f92ee-62c4-4fe1-9605-ab8856a10068" keyPath="$USER_HOME$/.ssh/id_rsa.eccj-xsrv" port="10022" nameFormat="DESCRIPTIVE" username="eccj" />
     </configs>
   </component>
 </application>

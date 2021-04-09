@@ -15,5 +15,6 @@
     <mask>*.</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.cgi</mask>
   </component>
 </application>
