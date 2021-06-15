@@ -1,21 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="5jsDRbF93i_ySZOSLL3Q0eA50dA0UaGqqJUfg19FEIU" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="myapp_cake_model_default_attendance_plan_details" type="PLAIN_TEXT" />
       <mapping pattern="maintenance" type="PLAIN_TEXT" />
       <mapping pattern="myapp_cake_core_translations_default_en__u_s" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd_wp-admin" type="PLAIN_TEXT" />
       <mapping ext="jp" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="po" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
