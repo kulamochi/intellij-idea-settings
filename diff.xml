@@ -64,7 +64,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.8239609" />
+          <option name="SPLITTER_PROPORTION" value="0.76282054" />
         </PlaceSettings>
       </entry>
     </option>
@@ -82,10 +82,14 @@
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
       <entry key="DirDiff">
         <PlaceSettings>
           <option name="BREADCRUMBS_PLACEMENT" value="BOTTOM" />
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
