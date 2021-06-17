@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="5jsDRbF93i_ySZOSLL3Q0eA50dA0UaGqqJUfg19FEIU" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="myapp_cake_model_default_attendance_plan_details" type="PLAIN_TEXT" />
       <mapping pattern="maintenance" type="PLAIN_TEXT" />
